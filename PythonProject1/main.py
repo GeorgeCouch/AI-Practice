@@ -109,3 +109,9 @@ while continueLoop:
     else:
         quit()
     print()
+    
+# Write the output of each menu item to a file
+# Include error checking on all user input (this should not be limited to strings, the user should be inputting numbers as well)
+# Add 3 classes to your program, a base class and 2 derived classes  - each with unique attributes and methods.
+# Add one of the following: list dictionary or tuple.
+# Add a new library (possibly a text to speech)
